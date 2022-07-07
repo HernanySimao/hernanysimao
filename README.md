@@ -1,6 +1,6 @@
 ### Eae eu sou o Hernany Simão, criador de conteúdo de programação e tecnologia!
 
-- 🔭 I'm currently working programming in c# ...
+- 🔭 I'm currently working programming in several languages ...
 
 <div align="center">
   <a href="https://github.com/hernanysimao">
