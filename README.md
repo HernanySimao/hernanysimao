@@ -1,4 +1,4 @@
-### Eae eu sou o Hernany Simão, criador de conteúdo de programação e tecnologia!
+### Hernany Simão!
 
 - 🔭 I'm currently working programming in several languages ...
 
