@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working programming in several languages ...
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003153&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=120&section=header"/>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003153&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hernany+Simão;I'm+19+years+old;I+from+Angola,+Lda;I+study+web+development;I+systems+development+frontend;Be+Welcome!)](https://git.io/typing-svg)
