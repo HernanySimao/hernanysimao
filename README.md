@@ -5,7 +5,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003153&height=120&section=header"/>
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003153&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hernany+Simão;Eu tenho+19+anos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003153&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hernany+Simão;I'm+19+years+old;I+from+Uberlândia,+MG;I+study+systems+development+at+Una;I+systems+development+bakend+Pleno;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
