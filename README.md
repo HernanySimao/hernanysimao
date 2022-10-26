@@ -1,6 +1,7 @@
 ### Hernany Simão!
 
 - 🔭 I'm currently working programming in several languages ...
+- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003153&height=120&section=header"/>
 
 <div align="center">
   <a href="https://github.com/hernanysimao">
